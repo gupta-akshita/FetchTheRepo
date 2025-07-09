@@ -1,8 +1,6 @@
 # FetchTheRepo
 
-# GitHub Repository Viewer
-
-A React application to browse and explore GitHub repositories in a detailed and user-friendly interface.
+A React application to browse and explore repositories in a detailed and user-friendly interface.
 
 ## 🚀 Getting Started
 
